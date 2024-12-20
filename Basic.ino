@@ -7,11 +7,11 @@
 
 // WiFi và Firebase cấu hình
 #define WIFI_SSID "ACLAB"
-#define WIFI_PASSWORD "ACLAB2023"
-#define API_KEY "AIzaSyBDgWra86uFe0ma4fZlYewS9JEiHmYQN0A"
-#define DATABASE_URL "aiot-bcb93-default-rtdb.asia-southeast1.firebasedatabase.app"
-#define USER_EMAIL "huyt24309@gmail.com"
-#define USER_PASSWORD "huy2004.."
+#define WIFI_PASSWORD "ACLAB8"
+#define API_KEY "AIzaSyBDgWra86uF*"
+#define DATABASE_URL "aiot-bcb93-default-rtdb.**"
+#define USER_EMAIL "huy*"
+#define USER_PASSWORD "h*"
 
 // GPIO cấu hình
 #define LED_PIN D13
